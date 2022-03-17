@@ -18,10 +18,9 @@ main{
 .step-box{
   width:100%;
   padding:10px;
-  margin-right:10px;
+  margin-right:30px;
   position:relative;
   background-color:#eee;
-  
 }
 
 .step-box:last-child{
